@@ -4,4 +4,4 @@
   //URL Root
   define('URLROOt', 'http://localhost/lexamvc/');
   //site name
-  define('Sitename', 'lexamvc');
+  define('SITENAME', 'lexamvc');
