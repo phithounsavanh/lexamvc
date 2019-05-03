@@ -5,5 +5,5 @@ Two main directories: <br/>
 -App<br/>
 -Public<br/>
 
-App directory contains all files related to the system which model, view, controller. <br/>
+App directory contains all files related to the system which is model, view, controller. <br/>
 Public contains files that only online people accessing the website can see. 
